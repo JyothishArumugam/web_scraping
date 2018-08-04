@@ -1,2 +1,2 @@
 # web_scraping
-A web scraping process
+For more details refer the wiki page of this repository
